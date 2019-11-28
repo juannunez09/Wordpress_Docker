@@ -1,1 +1,1 @@
-# Wordpress_Docker
+# Manipulación de WordPress en Dockers, manipulando el php.init.
